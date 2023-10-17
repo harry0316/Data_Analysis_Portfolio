@@ -1,2 +1,2 @@
-# Data_Analysis_Portfolio
-This repository is to show my work cases and skills including  Python ,R and SQL(oracle)
+# Data_Analist_Portfolio_HARUMI_IKEDA
+Hi, I'm Harumi.
